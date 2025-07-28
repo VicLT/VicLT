@@ -26,7 +26,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - **Databases:**
   * SQL
   * NoSQL
-- Python:
+- **Python:**
   * TensorFlow
   * Keras
   * Scikit-learn
@@ -41,8 +41,8 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - PHP
 
 ## Clean Architecture:
-- **Clean Code**
-- **SOLID Principles**
+- Clean Code
+- SOLID Principles
 - **Design Patterns:**
   * MVVM (Model-View-ViewModel)
   * MVP (Model-View-Presenter)
