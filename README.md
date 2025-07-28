@@ -9,6 +9,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - **Java**:
   * Maven
   * Spring
+  * Thymeleaf
   * JavaFX
   * Selenium
   * Appium
