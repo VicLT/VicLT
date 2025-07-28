@@ -1,59 +1,71 @@
-# Hi, I'm Víctor Lamas 👋
-### Backend & Android (Accessibility) Developer
+# Hi, I'm Victor Lamas 👋
+## BACKEND & ANDROID JUNIOR DEVELOPER
 
-I am Higher Technician in Multiplatform Applications Development trained in the creation of mobile and desktop solutions. Focus on digital accessibility to design inclusive experiences.
+I am Higher Technician in Multiplatform Applications Development trained in the creation of desktop and mobile solutions. Focus on digital accessibility to design inclusive experiences.
 
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
 
-## Languages:
-- Java:
-      * Maven
-      * Spring
-      * JavaFX
-- Kotlin
-      * JetPack Compose
-      * XML
-      * Room
-- C#
-      * WPF
-      * Entity Framework
-- DB:
-      * SQL
-      * NoSQL
-- Python
-- AI:
-      * TensorFlow
-      * Keras
-      * Sckikit-learn
-      * Pandas
-      * Numpy
-      * Matplotlib
-      * FastAPI
-      * Pydantic
+## Backend languages:
+- **Java**:
+  * Maven
+  * Spring
+  * JavaFX
+  * Selenium
+  * Appium
+  * Cucumber
+  * Gson
+  * Apache POI
+- **Kotlin**
+  * JetPack Compose
+  * XML
+  * Room
+- **C#**
+  * WPF
+  * Entity Framework
+- **Databases:**
+  * SQL
+  * NoSQL
+- Python:
+  * TensorFlow
+  * Keras
+  * Scikit-learn
+  * Pandas
+  * Numpy
+  * Matplotlib
+  * FastAPI
+  * Pydantic
+  * Jupyter Notebook
+  * Odoo
 - NodeJS
-- Frontend:
-      * HTML
-      * CSS
-      * JavaScript
-      * PHP
-      * Angular
-      * React
+- PHP
+
+## Clean Architecture:
+- **Clean Code**
+- **SOLID Principles**
+- **Design Patterns:**
+  * MVVM (Model-View-ViewModel)
+  * MVP (Model-View-Presenter)
+  * MVC (Model-View-Controller)
+ 
+## Frontend languages:
+- HTML
+- CSS
+- JavaScript
+- Angular
+- React:
+  * ChartJS
+  * RxJS
 
 ## Skills:
-- SOLID Principles and Clean Code
 - WCAG Accessibility
 - Git / GitHub
 - Linux
 - Docker
 - Postman
 - SonarQube
-- Selenium
-- Appium
-- Gson
-- Apache POI
 - Jenkins
-- Cucumber
-- Odoo
+- ERPs:
+  * Odoo
 
 ## You can find me at:
 
