@@ -6,18 +6,36 @@ I am Higher Technician in Multiplatform Applications Development trained in the 
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
 
 ## Skills:
-- Java + Spring
+- Java:
+    * Maven
+    * Spring
+    * JavaFX
 - Kotlin
+    * JetPack Compose
+    * XML
 - C#
+    * WPF
+    * Entity Framework
 - SQL + NoSQL
+- SOLID Principles and Clean Code
+- Python
 - WCAG Accessibility
-- Git
+- Git / GitHub
 - Docker
 - Postman
+- Selenium
+- Appium
+- Apache POI
+- Gson
+- SonarQube
+- Jenkins
+- Cucumber
+- Odoo
 
 ## Basic skills:
 - HTML
 - CSS
+- JavaScript
 - PHP
 - NodeJS
 - Angular
