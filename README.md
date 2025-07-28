@@ -20,6 +20,10 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Jetpack Compose
   * XML
   * Room
+  * Retrofit
+  * Glide
+  * Coroutines
+  * Firebase
 - **C#**
   * WPF
   * Entity Framework
