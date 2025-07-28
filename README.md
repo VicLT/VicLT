@@ -7,29 +7,43 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 
 ## Languages:
 - Java:
-    * Maven
-    * Spring
-    * JavaFX
+      * Maven
+      * Spring
+      * JavaFX
 - Kotlin
-    * JetPack Compose
-    * XML
+      * JetPack Compose
+      * XML
+      * Room
 - C#
-    * WPF
-    * Entity Framework
-- SQL + NoSQL
+      * WPF
+      * Entity Framework
+- DB:
+      * SQL
+      * NoSQL
 - Python
-- HTML
-- CSS
-- JavaScript
-- PHP
+- AI:
+      * TensorFlow
+      * Keras
+      * Sckikit-learn
+      * Pandas
+      * Numpy
+      * Matplotlib
+      * FastAPI
+      * Pydantic
 - NodeJS
-- Angular
-- React
+- Frontend:
+      * HTML
+      * CSS
+      * JavaScript
+      * PHP
+      * Angular
+      * React
 
 ## Skills:
 - SOLID Principles and Clean Code
 - WCAG Accessibility
 - Git / GitHub
+- Linux
 - Docker
 - Postman
 - SonarQube
