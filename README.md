@@ -1,4 +1,4 @@
-# Hi, I'm Victor Lamas 👋
+# Hi, I'm Víctor Lamas 👋
 ## BACKEND & ANDROID JUNIOR DEVELOPER
 
 I am Higher Technician in Multiplatform Applications Development trained in the creation of desktop and mobile solutions. Focus on digital accessibility to design inclusive experiences.
