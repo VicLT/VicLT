@@ -5,7 +5,7 @@ I am Higher Technician in Multiplatform Applications Development trained in the 
 
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
 
-## Skills:
+## Languages:
 - Java:
     * Maven
     * Spring
@@ -17,22 +17,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
     * WPF
     * Entity Framework
 - SQL + NoSQL
-- SOLID Principles and Clean Code
 - Python
-- WCAG Accessibility
-- Git / GitHub
-- Docker
-- Postman
-- Selenium
-- Appium
-- Apache POI
-- Gson
-- SonarQube
-- Jenkins
-- Cucumber
-- Odoo
-
-## Basic skills:
 - HTML
 - CSS
 - JavaScript
@@ -41,11 +26,20 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Angular
 - React
 
-## Professional projects:
-In the professional sphere, I contributed from scratch to a newly created project on the backend of a framework designed for automated web and mobile accessibility analysis tasks. To do this, we used:
-- Java, Maven, Selenium, Appium and Cucumber as the core.
-- Gson and Apache POI to export the analysis results to the frontend and Excel, respectively.
-- GitHub, Jenkins and SonarQube for version control, automation and code quality analysis.
+## Skills:
+- SOLID Principles and Clean Code
+- WCAG Accessibility
+- Git / GitHub
+- Docker
+- Postman
+- SonarQube
+- Selenium
+- Appium
+- Gson
+- Apache POI
+- Jenkins
+- Cucumber
+- Odoo
 
 ## You can find me at:
 
