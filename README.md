@@ -65,8 +65,10 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Postman
 - SonarQube
 - Jenkins
-- ERPs:
-  * Odoo
+- ERP:
+  * Odoo Studio
+- CRM:
+  * HubSpot
 
 ## You can find me at:
 
