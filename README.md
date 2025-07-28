@@ -69,6 +69,13 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Postman
 - SonarQube
 - Jenkins
+- IDEs:
+  * IntelliJ
+  * Android Studio
+  * Visual Studio 2022
+  * Eclipse
+  * Spring Tool Suite
+  * Visual Studio Code
 - ERP:
   * Odoo Studio
 - CRM:
