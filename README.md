@@ -5,7 +5,7 @@ I am Higher Technician in Multiplatform Applications Development trained in the 
 
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
 
-## Backend languages:
+## Backend languages
 - **Java**:
   * Maven
   * Spring
@@ -40,7 +40,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - NodeJS
 - PHP
 
-## Clean Architecture:
+## Clean Architecture
 - Clean Code
 - SOLID Principles
 - **Design Patterns:**
@@ -48,7 +48,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * MVP (Model-View-Presenter)
   * MVC (Model-View-Controller)
  
-## Frontend languages:
+## Frontend languages
 - HTML
 - CSS
 - JavaScript
@@ -57,7 +57,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * ChartJS
   * RxJS
 
-## Skills:
+## Skills
 - WCAG Accessibility
 - Git / GitHub
 - Linux
