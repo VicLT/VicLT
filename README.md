@@ -17,7 +17,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Gson
   * Apache POI
 - **Kotlin**
-  * JetPack Compose
+  * Jetpack Compose
   * XML
   * Room
 - **C#**
