@@ -23,6 +23,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 #### C#:
 - WPF
 - Entity Framework
+- Windows Forms
 - Report Viewer
 - RDLC Report Designer
 - Sandcastle Help File Builder
