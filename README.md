@@ -1,15 +1,15 @@
 # Hi, I'm Víctor Lamas 👋
 ## JUNIOR BACKEND & ANDROID DEVELOPER
 
-I am Higher Technician in Multiplatform Applications Development trained in the creation of desktop and mobile solutions. Focus on digital accessibility to design inclusive experiences.
+I am a Higher Technician in Multiplatform Applications Development, trained in creating desktop and mobile solutions. I focus on digital accessibility to design inclusive experiences.
 
-My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
+My interest lies in Artificial Intelligence and Big Data, areas in which I am currently taking a specialist course to continue my professional development.
 
 ## Technology Stack
 *(Languages, frameworks, libraries, databases, tools and platforms used in various projects.)*
 - **Java**:
   * Maven
-  * SpringBoot
+  * Spring Boot
   * Thymeleaf
   * JavaFX
   * Selenium
@@ -58,7 +58,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Clean Architecture
 - Clean Code
 - SOLID Principles
-- **Architecture Patterns:**
+- **Architectural Patterns:**
   * MVVM (Model-View-ViewModel)
   * MVP (Model-View-Presenter)
   * MVC (Model-View-Controller)
@@ -67,7 +67,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Kanban
 
 ## Skills & Tools
-- WCAG Accessibility
+- WCAG (Web Content Accessibility Guidelines)
 - Git / GitHub
 - Linux
 - Docker
