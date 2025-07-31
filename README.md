@@ -19,7 +19,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Room
 - Retrofit
 - Glide
-- Firebase
+- Coroutines
 #### C#:
 - WPF
 - Entity Framework
@@ -33,6 +33,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - PostgreSQL
 #### NoSQL Databases:
 - MongoDB
+- Firebase Realtime Database
 #### Python:
 - TensorFlow
 - Keras
@@ -73,7 +74,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Postman
 
 ## Skills & Tools
-- WCAG (Web Content Accessibility Guidelines)
+- WCAG 2.2 (Web Content Accessibility Guidelines)
 - Git / GitHub
 - Linux
 - Docker
