@@ -5,7 +5,7 @@ I am Higher Technician in Multiplatform Applications Development trained in the 
 
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
 
-## Technology stack
+## Technology Stack
 *(Languages, frameworks, libraries, databases, tools and platforms used in various projects.)*
 - **Java**:
   * Maven
@@ -34,7 +34,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - **SQL Databases:**
   * Oracle SQL
   * Microsoft SQL Server
-  * Postgre SQL
+  * PostgreSQL
 - **NoSQL Databases:**
   * MongoDB
 - **Python:**
@@ -46,7 +46,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Matplotlib
   * FastAPI
   * Pydantic
-- **Web developmnent (basic):**
+- **Web Development (basic):**
   * HTML
   * CSS
   * JavaScript
@@ -54,15 +54,19 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Angular
   * React
 
-## Clean Architecture
+## Development Practices & Methodologies
+- Clean Architecture
 - Clean Code
 - SOLID Principles
-- **Design Patterns:**
+- **Architecture Patterns:**
   * MVVM (Model-View-ViewModel)
   * MVP (Model-View-Presenter)
   * MVC (Model-View-Controller)
+- **Agile Methodologies:**
+  * Scrum
+  * Kanban
 
-## Skills
+## Skills & Tools
 - WCAG Accessibility
 - Git / GitHub
 - Linux
