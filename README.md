@@ -12,9 +12,6 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Spring Boot
   * Thymeleaf
   * JavaFX
-  * Selenium
-  * Appium
-  * Cucumber
   * Gson
   * Apache POI
 - **Kotlin**
@@ -66,14 +63,21 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Scrum
   * Kanban
 
+## Testing & Automation
+- **Frameworks:**
+  * Selenium (Java)
+  * Appium (Java/Kotlin)
+  * Cucumber (Gherkin)
+- **CI/CD & Automation Tools:**
+  * Jenkins
+  * SonarQube
+  * Postman
+
 ## Skills & Tools
 - WCAG (Web Content Accessibility Guidelines)
 - Git / GitHub
 - Linux
 - Docker
-- Postman
-- SonarQube
-- Jenkins
 - IDEs:
   * IntelliJ
   * Android Studio
