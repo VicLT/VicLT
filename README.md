@@ -5,10 +5,11 @@ I am Higher Technician in Multiplatform Applications Development trained in the 
 
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently starting a specialist course to continue my professional development.
 
-## Backend languages
+## Technology stack
+*(Languages, frameworks, libraries, databases, tools and platforms used in various projects.)*
 - **Java**:
   * Maven
-  * Spring
+  * SpringBoot
   * Thymeleaf
   * JavaFX
   * Selenium
@@ -22,7 +23,6 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Room
   * Retrofit
   * Glide
-  * Coroutines
   * Firebase
 - **C#**
   * WPF
@@ -31,9 +31,12 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * RDLC Report Designer
   * Sandcastle Help File Builder
   * Inno Setup
-- **Databases:**
-  * SQL
-  * NoSQL
+- **SQL Databases:**
+  * Oracle SQL
+  * Microsoft SQL Server
+  * Postgre SQL
+- **NoSQL Databases:**
+  * MongoDB
 - **Python:**
   * TensorFlow
   * Keras
@@ -43,10 +46,13 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Matplotlib
   * FastAPI
   * Pydantic
-  * Jupyter Notebook
-  * Odoo
-- NodeJS
-- PHP
+- **Web developmnent (basic):**
+  * HTML
+  * CSS
+  * JavaScript
+  * PHP
+  * Angular
+  * React
 
 ## Clean Architecture
 - Clean Code
@@ -55,15 +61,6 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * MVVM (Model-View-ViewModel)
   * MVP (Model-View-Presenter)
   * MVC (Model-View-Controller)
- 
-## Frontend languages
-- HTML
-- CSS
-- JavaScript
-- Angular
-- React:
-  * ChartJS
-  * RxJS
 
 ## Skills
 - WCAG Accessibility
@@ -80,6 +77,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
   * Eclipse
   * Spring Tool Suite
   * Visual Studio Code
+  * Jupyter Notebook
 - ERP:
   * Odoo Studio
 - CRM:
