@@ -20,6 +20,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Retrofit
 - Glide
 - Coroutines
+- Dagger Hilt
 #### C#:
 - WPF
 - Entity Framework
