@@ -13,7 +13,6 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - JavaFX
 - Gson
 - Apache POI
-- JUnit
 #### Kotlin:
 - Jetpack Compose
 - XML
@@ -22,7 +21,6 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Glide
 - Coroutines
 - Dagger Hilt
-- JUnit
 #### C#:
 - WPF
 - Entity Framework
@@ -69,6 +67,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 
 ## Testing & Automation
 #### Frameworks:
+- JUnit (Java/Kotlin)
 - Selenium (Java)
 - Appium (Java/Kotlin)
 - Cucumber (Gherkin)
@@ -80,8 +79,11 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 ## Skills & Tools
 - WCAG 2.2 (Web Content Accessibility Guidelines)
 - Git / GitHub
-- Linux
 - Docker
+#### S.O.:
+- Windows
+- Windows Server
+- Linux
 #### IDEs:
 - IntelliJ
 - Android Studio
