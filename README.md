@@ -13,6 +13,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - JavaFX
 - Gson
 - Apache POI
+- JUnit
 #### Kotlin:
 - Jetpack Compose
 - XML
@@ -21,6 +22,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Glide
 - Coroutines
 - Dagger Hilt
+- JUnit
 #### C#:
 - WPF
 - Entity Framework
