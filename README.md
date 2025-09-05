@@ -87,6 +87,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 #### IDEs:
 - IntelliJ
 - Android Studio
+- PyCharm
 - Visual Studio 2022
 - Eclipse
 - Spring Tool Suite
