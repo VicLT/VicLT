@@ -80,6 +80,7 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - WCAG 2.2 (Web Content Accessibility Guidelines)
 - Git / GitHub
 - Docker
+- Markdown
 #### S.O.:
 - Windows
 - Windows Server
