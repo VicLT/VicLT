@@ -13,6 +13,15 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - JavaFX
 - Gson
 - Apache POI
+#### Python:
+- TensorFlow
+- Keras
+- Scikit-learn
+- Pandas
+- Numpy
+- Matplotlib
+- FastAPI
+- Pydantic
 #### Kotlin:
 - Jetpack Compose
 - XML
@@ -36,15 +45,6 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 #### NoSQL Databases:
 - MongoDB
 - Firebase Realtime Database
-#### Python:
-- TensorFlow
-- Keras
-- Scikit-learn
-- Pandas
-- Numpy
-- Matplotlib
-- FastAPI
-- Pydantic
 #### Web Development (basic):
 - HTML
 - CSS
