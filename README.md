@@ -86,14 +86,14 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Windows Server
 - Linux
 #### IDEs:
-- IntelliJ
+- IntelliJ IDEA
 - Android Studio
 - PyCharm
 - Visual Studio 2022
 - Eclipse
 - Spring Tool Suite
 - Visual Studio Code
-- Jupyter Notebook
+- Jupyter Notebook (Anaconda and Google Colab)
 #### ERP:
 - Odoo Studio
 #### CRM:
