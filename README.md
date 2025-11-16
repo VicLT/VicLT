@@ -6,13 +6,6 @@ I am a Higher Technician in Multiplatform Applications Development, trained in c
 My interest lies in Artificial Intelligence and Big Data, areas in which I am currently taking a specialist course to continue my professional development.
 
 ## Technology Stack
-#### Java:
-- Maven
-- Spring Boot
-- Thymeleaf
-- JavaFX
-- Gson
-- Apache POI
 #### Python:
 - TensorFlow
 - Keras
@@ -22,6 +15,14 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Matplotlib
 - FastAPI
 - Pydantic
+- Seaborn
+#### Java:
+- Maven
+- Spring Boot
+- Thymeleaf
+- JavaFX
+- Gson
+- Apache POI
 #### Kotlin:
 - Jetpack Compose
 - XML
@@ -77,10 +78,11 @@ My interest lies in Artificial Intelligence and Big Data, areas in which I am cu
 - Postman
 
 ## Skills & Tools
-- WCAG 2.2 (Web Content Accessibility Guidelines)
+- Anaconda Navigator
 - Git / GitHub
 - Docker
 - Markdown
+- WCAG 2.2 (Web Content Accessibility Guidelines)
 #### S.O.:
 - Windows
 - Windows Server
