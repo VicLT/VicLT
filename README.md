@@ -1,5 +1,5 @@
 # Hi, I'm Víctor Lamas 👋
-## DATA ANALYST AND IA STUDENT | Backend & Android Developer
+## DATA ANALYST AND AI STUDENT | Backend & Android Developer
 
 I am a Higher Technician in Multiplatform Applications Development, trained in creating desktop and mobile solutions. I focus on digital accessibility to design inclusive experiences.
 
